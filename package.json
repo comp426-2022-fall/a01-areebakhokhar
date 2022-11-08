@@ -1,6 +1,6 @@
 {
   "name": "areebas-webserver",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This assignment will help you get started working with Node.js by hacking your way through creating a webserver from scratch.",
   "main": "server.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2022-fall/a01-areebakhokhar.git"
   },
-  "author": "areebakhokhar",
+  "author": "@areebakhokhar",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a01-areebakhokhar/issues"
